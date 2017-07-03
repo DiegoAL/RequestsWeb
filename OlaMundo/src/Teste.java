@@ -4,6 +4,7 @@ public class Teste {
 		conta c1 = new conta();
 		c1.saldo = 1;
 		System.out.println(c1.saldo);
+		System.out.println("");
 	}
 }
 
